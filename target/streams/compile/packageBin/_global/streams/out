@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/pozyx.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension$SetUrl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension$SetUrl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Data.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/Data.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension$Start.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension$Start.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rates.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/Rates.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension$GetIds.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension$GetIds.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension$Get.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension$Get.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Datum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/Datum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TagData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/TagData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Metrics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/Metrics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Velocity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/Velocity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnchorDatum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/AnchorDatum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension$MyMqttClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension$MyMqttClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PozyxExtension$TheMqttCallBack.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/PozyxExtension$TheMqttCallBack.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Coordinates.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes/Coordinates.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

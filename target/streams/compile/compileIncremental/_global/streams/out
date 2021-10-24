@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 9 Java sources to /Users/bradyce/Documents/Software/NetLogo/pozyx/target/scala-2.11/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@55a720a0 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 1.019302834 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.211511135 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 1.240418308 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
